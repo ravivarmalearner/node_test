@@ -5,4 +5,5 @@ try {
 catch (e) {
   console.log("Inside Catch");
   console.log(e);
+  return process.exit(0)
 }
