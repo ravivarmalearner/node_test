@@ -5,7 +5,7 @@ public class demo {
 
 	@Test
     public void multiplicationOfZeroIntegersShouldReturnZero() {
-		assertEquals(0, 0);
+		assertEquals(1, 0);
     }
 
 	@Test
